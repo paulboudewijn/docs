@@ -379,9 +379,6 @@ function sidebar() {
 					text: 'Files',
 				},
 				{
-					// type: 'divider',
-				},
-				{
 					// type: 'page',
 					link: '/reference/cli',
 					text: 'CLI',
