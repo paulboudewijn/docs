@@ -26,7 +26,7 @@ The `PORT` entry needs to be removed or disabled in the `.env` file to get Direc
 # PORT=8055
 ```
 
-The `PUBLIC_URL` entry must match the site binding in IIS. Portnumber is optional.
+The `PUBLIC_URL` entry must match the site binding in IIS. Port number is optional.
 
 ```
 PUBLIC_URL="https://cms.yourdomain.com/"
